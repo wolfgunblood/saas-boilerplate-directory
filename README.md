@@ -43,6 +43,7 @@
 | [ProjectPlannerAI StarterKit](https://github.com/webdevcody/ppai-next-starter)                            | Open-source Next.js SaaS starter kit                          | [🔗](https://github.com/webdevcody/ppai-next-starter)           | Yes         | ![GitHub stars](https://img.shields.io/github/stars/webdevcody/ppai-next-starter?style=social)           |
 | [WaitlistEasy](https://waitlisteasy.com/)                                                                 | Publish & Manage Waitlists                                    | [🔗](https://waitlisteasy.com/)                                 | No          | N/A                                                                                                      |
 | [OpenSaaS.sh](https://opensaas.sh/)                                                                       | Free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate | [🔗](https://opensaas.sh/)                                      | Yes         | ![GitHub stars](https://img.shields.io/github/stars/wasp-lang/open-saas?style=social)                    |
+| [ShipAI.today](https://shipai.today/)                                                                     | Next.js monorepo starter for AI products                      | [🔗](https://shipai.today/)                                     | No          | N/A                                                                                                      |
 
 [⬆️ Back to index](#-table-of-contents)
 
@@ -78,6 +79,7 @@
 | [NextWrapper](https://nextwrapper.com)                 | AI-powered Saas boilerplate to build your SaaS                                                     | [🔗](https://nextwrapper.com)              | No          | N/A          |
 | [AnotherWrapper](https://anotherwrapper.com?aff=4oRWz) | Build your AI startup in hours                                                                     | [🔗](https://anotherwrapper.com?aff=4oRWz) | No          | N/A          |
 | [WrapFast](https://wrapfa.st/)                         | The SwiftUI boilerplate with all you need to build monetizable AI Wrappers or any iOS app FAST ⚡️ | [🔗](https://wrapfa.st/)                   | No          | N/A          |
+| [ShipAI.today](https://shipai.today/)                  | Ship AI products in days — 11 AI handlers, vector memory & billing pre-wired                      | [🔗](https://shipai.today/)                   | No          | N/A          |
 
 [⬆️ Back to index](#-table-of-contents)
 
