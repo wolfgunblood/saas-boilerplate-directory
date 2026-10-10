@@ -147,6 +147,7 @@
 | [FastestEngineer](https://fastest.engineer)                       | High-speed SvelteKit SaaS starter kit         | [🔗](https://fastest.engineer)                         | No          | N/A                                                                                             |
 | [Just Ship](https://justship.today)                               | Simplified SvelteKit SaaS starter             | [🔗](https://justship.today)                           | No          | N/A                                                                                             |
 | [SvelteLaunch](https://sveltelaunch.io)                           | SvelteKit SaaS boilerplate with Launchpad     | [🔗](https://sveltelaunch.io)                          | No          | N/A                                                                                             |
+| [AgenticSaaS](https://agenticsaas.flawlesslyhuman.com/) | Agent-ready SvelteKit SaaS starter with accounts, billing, credits and private files. Save $100 with LAUNCH100, for the first 100 paid launch licenses. | [🔗](https://agenticsaas.flawlesslyhuman.com/) | No | N/A |
 
 [⬆️ Back to index](#-table-of-contents)
 
