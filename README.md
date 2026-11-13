@@ -43,6 +43,7 @@
 | [ProjectPlannerAI StarterKit](https://github.com/webdevcody/ppai-next-starter)                            | Open-source Next.js SaaS starter kit                          | [🔗](https://github.com/webdevcody/ppai-next-starter)           | Yes         | ![GitHub stars](https://img.shields.io/github/stars/webdevcody/ppai-next-starter?style=social)           |
 | [WaitlistEasy](https://waitlisteasy.com/)                                                                 | Publish & Manage Waitlists                                    | [🔗](https://waitlisteasy.com/)                                 | No          | N/A                                                                                                      |
 | [OpenSaaS.sh](https://opensaas.sh/)                                                                       | Free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate | [🔗](https://opensaas.sh/)                                      | Yes         | ![GitHub stars](https://img.shields.io/github/stars/wasp-lang/open-saas?style=social)                    |
+| [supastack](https://supastack.dev/)                                                                          | Multi-platform SaaS starter kit: web, mobile, desktop and browser extension | [🔗](https://supastack.dev/)                                     | No          | N/A                                                                                                     |
 
 [⬆️ Back to index](#-table-of-contents)
 
@@ -160,6 +161,7 @@
 | [LaunchYourApp \| React Native Boilerplate](https://launchyourapp.dev/) | React Native SaaS boilerplate                 | [🔗](https://launchyourapp.dev/)         | No          | N/A          |
 | [React Native Boilerplate](https://reactnativeboilerplate.com)          | Build SaaS for iOS, Android, and Web          | [🔗](https://reactnativeboilerplate.com) | No          | N/A          |
 | [SupaWrapper](https://supawrapper.com)                                  | RN Starter for AI apps                        | [🔗](https://supawrapper.com)            | No          | N/A          |
+| [supastack](https://supastack.dev/)                                     | Multi-platform starter: Expo mobile + Next.js web + Tauri desktop + WXT extension | [🔗](https://supastack.dev/) | No | N/A |
 
 [⬆️ Back to index](#-table-of-contents)
 
